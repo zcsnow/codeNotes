@@ -25,4 +25,4 @@ hotfix 分支
 分支命名: hotfix/ 开头的为修复分支，它的命名规则与 feature 分支类似
 线上出现紧急问题时，需要及时修复，以master分支为基线，创建hotfix分支，修复完成后，需要合并到master分支和develop分支
 
-
+![image](https://user-gold-cdn.xitu.io/2018/7/9/1647e5710a461adc?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
